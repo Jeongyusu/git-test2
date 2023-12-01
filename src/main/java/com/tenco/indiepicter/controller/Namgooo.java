@@ -7,10 +7,9 @@ public class Namgooo {
 
 	public void namgo() {
 		
+		System.out.println("test");
 		System.out.println("________________________________");
-		System.out.println("test1");
-		System.out.println("test2");
-		System.out.println("________________________________");
+		// asdfasdf
 		
 	}
 	
